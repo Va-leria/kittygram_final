@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
-import pytest
 
+import pytest
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 BACKEND_DIR_NAME = 'backend'
